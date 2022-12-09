@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "599884984427",
+    "project_id": "icmbio-delta",
+    "storage_bucket": "icmbio-delta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599884984427:android:f174edc574323e9b13012e",
+        "android_client_info": {
+          "package_name": "br.edu.ifma.icmbiodelta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599884984427-c2fbqt5tgk49pfc9o9g9a46u4tatjrpa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMLZWZ7hS80NU5_eI3aKHf9-leYRxz8eY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599884984427-c2fbqt5tgk49pfc9o9g9a46u4tatjrpa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
